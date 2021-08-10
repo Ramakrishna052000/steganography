@@ -1,4 +1,3 @@
-import textract
 import math
 from PIL import Image, ImageDraw,ImageFont
 import numpy as np
